@@ -1,0 +1,53 @@
+.btn-primary {
+	background: #6413ef;
+	border: #6413ef;
+}
+
+.btn-primary:hover {
+	background: #ca0eef;
+	border: #ca0eef;
+}
+
+.nav-link {
+	color: #6413ef;
+}
+
+.navbar {
+	background: #6413ef;
+}
+
+html, body {
+	height: 100%;
+}
+
+
+.container {
+	padding: 90px;
+}
+
+
+/*body {
+	background: linear-gradient(rgba(7,119,75,.6), rgba(7,16,119,.6)), url("../images/conf.jpg") no-repeat center / cover;
+}*/
+
+.input-group {
+	max-width: 500px;
+}
+
+.jumbotron {
+	padding: 176px 0 120px;
+	background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url('../img/conf.jpg') no-repeat center / cover;
+	color: #fff;	
+}
+
+.speakers {
+	padding: 60px 0;
+}
+
+.speakers .card {
+	margin-bottom: 20px;
+}
+
+.card-body {
+	height: 252px;
+}
